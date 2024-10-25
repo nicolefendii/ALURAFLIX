@@ -2,3 +2,11 @@ body {
      color: white;
      background: black;
 }
+body {
+   background: rgb(117, 9, 117);
+   color: rgb(17, 17, 17);
+}
+
+header {
+   border: solid 2px pink;
+}
